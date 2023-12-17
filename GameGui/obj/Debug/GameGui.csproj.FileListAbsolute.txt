@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.exe.config
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.exe
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.pdb
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.dll
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.pdb
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.dll.config
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.FormGameSettings.resources
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.GameBoardForm.resources
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.CopyComplete
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.exe
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.pdb
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.exe.config
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.exe
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameGui.pdb
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.dll
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.pdb
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\bin\Debug\GameLogic.dll.config
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.AssemblyReference.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.SuggestedBindingRedirects.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.FormGameSettings.resources
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.GameBoardForm.resources
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.GenerateResource.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.CoreCompileInputs.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.csproj.CopyComplete
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.exe
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameGui\obj\Debug\GameGui.pdb

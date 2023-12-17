@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\USER\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.pdb
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\יואב עמית\Desktop\B23 Ex05 YonathanGleit 206587800 YoavAmit 314922956\GameLogic\obj\Debug\GameLogic.pdb
